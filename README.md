@@ -1,2 +1,2 @@
 # MathTest
-![mainPage](/img/screen1.jpg =100x20)
+<img src="https://github.com/irelav/MathTestAndroid/blob/master/img/screen1.jpg" alt="alt text">
