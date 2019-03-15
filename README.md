@@ -16,6 +16,6 @@ Muudetud sai ka disain - värvid, atribuutide asukohad. Video õpetuses oli ka l
 <img src="https://github.com/irelav/MathTestAndroid/blob/master/img/screen4.jpg" alt="alt text" width="270" height="555"><img src="https://github.com/irelav/MathTestAndroid/blob/master/img/screen5.jpg" alt="alt text" width="270" height="555">
 
 ## Juhend:
-[![Tutorial Link](https://www.youtube.com/watch?v=o-XkZGNjP-Y&list=WL&index=9&t=1540s)
+https://www.youtube.com/watch?v=o-XkZGNjP-Y&list=WL&index=9&t
 
 Rakendus oli tehtud ja testitud Android 9.0-l
